@@ -1,10 +1,8 @@
-# Spherical_Cow
+# Spherical Cow
 
-Spherical Cow is a Problem Solving Environment [PSE] for scientific physics problems. 
+## Spherical Cow is a Problem Solving Environment [PSE] for scientific physics problems. 
 
-
-Problem Solving Env
-* calculations 
+### Calculations 
   * stochastic modelling
   * linear/tensor algebra 
   * FFT
@@ -14,16 +12,13 @@ Problem Solving Env
   * nimeric optomization 
   * n-dimensional array manipulation 
  
-* computing 
+### Computing 
   * fast, scienftific and numerical computing via pyTorch
   * high performance linear algebra functions 
   * geo-spatial locations
   * widget to visualize images in 2D/3D
   
-
-
-
-GUI 
+### GUI 
 * latex math symbols
 * beautiful dashboard with visual effects
 * embedded GUI
